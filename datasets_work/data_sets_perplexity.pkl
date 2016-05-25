@@ -1,0 +1,3354 @@
+(dp0
+S'9343_3'
+p1
+(dp2
+S'answer'
+p3
+S'first'
+p4
+sS'text'
+p5
+S'br br the movie first of all is'
+p6
+ssS'5122_1'
+p7
+(dp8
+g3
+S'think'
+p9
+sg5
+S'br br i dont think i can judge'
+p10
+ssS'11442_10'
+p11
+(dp12
+g3
+S'are'
+p13
+sg5
+S'br br the actors are journeymen who do'
+p14
+ssS'6024_7'
+p15
+(dp16
+g3
+S'the'
+p17
+sg5
+S'i was surprise by the plot which is'
+p18
+ssS'1693_7'
+p19
+(dp20
+g3
+S'slow'
+p21
+sg5
+S'br br its very slow at points but'
+p22
+ssS'5419_1'
+p23
+(dp24
+g3
+S'film'
+p25
+sg5
+S'br br see this film yawn at your'
+p26
+ssS'101768'
+p27
+(dp28
+g3
+S'umbilicus'
+p29
+sg5
+S'the place on a childs abdomen where the umbilical cord was attached is called the'
+p30
+ssS'100202'
+p31
+(dp32
+g3
+S'genetic'
+p33
+sg5
+S'the nucleus can control the function of the cell because it contains the'
+p34
+ssS'9906_9'
+p35
+(dp36
+g3
+S'hare'
+p37
+sg5
+S'br br director jeff hare proves to be'
+p38
+ssS'101364'
+p39
+(dp40
+g3
+S'vector'
+p41
+sg5
+S'because velocity requires both a magnitude value and a direction it is considered an'
+p42
+ssS'3029_7'
+p43
+(dp44
+g3
+S'score'
+p45
+sg5
+S'br br the musical score by howard shore'
+p46
+ssS'1119_2'
+p47
+(dp48
+g3
+S'see'
+p49
+sg5
+S'the only reason to see this film is'
+p50
+ssS'101562'
+p51
+(dp52
+g3
+S'antibody'
+p53
+sg5
+S'a defensive protein produced by white blood cells b cells in response to foreign substances in the body is called an'
+p54
+ssS'958_10'
+p55
+(dp56
+g3
+S'the'
+p57
+sg5
+S'big fat liar is the best movie ever'
+p58
+ssS'1923_1'
+p59
+(dp60
+g3
+S'other'
+p61
+sg5
+S'br br like every other love movie ever'
+p62
+ssS'7386_8'
+p63
+(dp64
+g3
+S'that'
+p65
+sg5
+S'br br and for that and the very'
+p66
+ssS'100162'
+p67
+(dp68
+g3
+S'protein'
+p69
+sg5
+S'prior to the 1952 experiments by hershey and chase many scientists remained unconvinced about the exact location of genetic material in living things this was mainly because chromosomes are composed of both dna and'
+p70
+ssS'101568'
+p71
+(dp72
+g3
+S'protons'
+p73
+sg5
+S'the atomic number of an atom always allows you to know the number of'
+p74
+ssS'739_1'
+p75
+(dp76
+g3
+S'much'
+p77
+sg5
+S'5 hours would be much better spent doing'
+p78
+ssS'11775_10'
+p79
+(dp80
+g3
+S'only'
+p81
+sg5
+S'br br yes its only 10 minutes but'
+p82
+ssS'824_4'
+p83
+(dp84
+g3
+S'put'
+p85
+sg5
+S'br br i cannot put my finger on'
+p86
+ssS'9600_9'
+p87
+(dp88
+g3
+S'in'
+p89
+sg5
+S'br br being stuck in the us im'
+p90
+ssS'101781'
+p91
+(dp92
+g3
+S'vaccine'
+p93
+sg5
+S'tetanus bacteria killed by heat or chemical treatment are injected into the body this is an example of an'
+p94
+ssS'6841_10'
+p95
+(dp96
+g3
+S'gugino'
+p97
+sg5
+S'emma thompson alan rickmancarla gugino and gil bellows'
+p98
+ssS'7038_3'
+p99
+(dp100
+g3
+S'this'
+p101
+sg5
+S'youve got to watch this movie it is'
+p102
+ssS'5766_1'
+p103
+(dp104
+g3
+S'see'
+p105
+sg5
+S'i am shocked to see that this movie'
+p106
+ssS'100659'
+p107
+(dp108
+g3
+S'propel'
+p109
+sg5
+S'mature sperm cells have a flagellum that functions to'
+p110
+ssS'101962'
+p111
+(dp112
+g3
+S'mineral'
+p113
+sg5
+S'the geology of california has resulted in a wealth of'
+p114
+ssS'100540'
+p115
+(dp116
+g3
+S'focus'
+p117
+sg5
+S'the place within earths crust where the earthquake originated is called the'
+p118
+ssS'100542'
+p119
+(dp120
+g3
+S'molecular'
+p121
+sg5
+S'all of the following gases are responsible for absorbing earths thermal radiation except'
+p122
+ssS'5025_3'
+p123
+(dp124
+g3
+S'of'
+p125
+sg5
+S'br br however all of that isnt to'
+p126
+ssS'101160'
+p127
+(dp128
+g3
+S'under'
+p129
+sg5
+S'an archeologist is looking for fossils in the mountains in one rock she finds some fossils of shark teeth and coral the fossils this archeologist found show that the mountain was most likely'
+p130
+ssS'101164'
+p131
+(dp132
+g3
+S'sexually'
+p133
+sg5
+S'vertebrates animals that have backbones all reproduce'
+p134
+ssS'101169'
+p135
+(dp136
+g3
+S'egg'
+p137
+sg5
+S'during fertilization half of the dna comes from the __________ provided by the mother while the other half of the dna is provided by the father in the form of an'
+p138
+ssS'8603_10'
+p139
+(dp140
+g3
+S'superb'
+p141
+sg5
+S'black rain is a superb film but watch'
+p142
+ssS'2199_3'
+p143
+(dp144
+g3
+S'film'
+p145
+sg5
+S'br br delete this film from your mind'
+p146
+ssS'102264'
+p147
+(dp148
+g3
+S'organs'
+p149
+sg5
+S'human ovaries are used in the process of reproduction in females ovaries are an example of reproductive'
+p150
+ssS'102469'
+p151
+(dp152
+g3
+S'galaxy'
+p153
+sg5
+S'on a clear night a person can see billions of stars within the milky way'
+p154
+ssS'101313'
+p155
+(dp156
+g3
+S'protein'
+p157
+sg5
+S'microfilaments and microtubules which form the cytoskeleton in eukaryotic cells are both made of'
+p158
+ssS'5451_8'
+p159
+(dp160
+g3
+S'a'
+p161
+sg5
+S'br br there are a few problems with'
+p162
+ssS'100702'
+p163
+(dp164
+g3
+S'an'
+p165
+sg5
+S'a viral infection that causes death in a significant number of individuals in a population is an example of'
+p166
+ssS'102187'
+p167
+(dp168
+g3
+S'cycles'
+p169
+sg5
+S'water carbon nitrogen and oxygen move through living and nonliving things on earth through processes called'
+p170
+ssS'3431_4'
+p171
+(dp172
+g3
+S'is'
+p173
+sg5
+S'this very lowbudget film is fun if youre'
+p174
+ssS'101247'
+p175
+(dp176
+g3
+S'medium'
+p177
+sg5
+S'light travels differently as it passes through different substances a substance that light travels through is called a'
+p178
+ssS'7148_9'
+p179
+(dp180
+g3
+S'of'
+p181
+sg5
+S'the raptureor maybe one of todd solondzs blackasnight'
+p182
+ssS'9059_10'
+p183
+(dp184
+g3
+S'110'
+p185
+sg5
+S'on a scale of 110 suicidal sweetheart got'
+p186
+ssS'4191_10'
+p187
+(dp188
+g3
+S'about'
+p189
+sg5
+S'this allbutignored masterpiece is about the monkees becoming'
+p190
+ssS'7897_9'
+p191
+(dp192
+g3
+S'film'
+p193
+sg5
+S'br br an excellent film that surprisingly is'
+p194
+ssS'102322'
+p195
+(dp196
+g3
+S'both'
+p197
+sg5
+S'the central nervous system consists of the'
+p198
+ssS'6420_1'
+p199
+(dp200
+g3
+S'young'
+p201
+sg5
+S'years ago sara a young girl witnessed her'
+p202
+ssS'9745_1'
+p203
+(dp204
+g3
+S'the'
+p205
+sg5
+S'br br i think the only reason the'
+p206
+ssS'100791'
+p207
+(dp208
+g3
+S'increased'
+p209
+sg5
+S'a red shift occurs because light waves are'
+p210
+ssS'12042_1'
+p211
+(dp212
+g3
+S'movie'
+p213
+sg5
+S'i thought that this movie might be a'
+p214
+ssS'8103_10'
+p215
+(dp216
+g3
+S'the'
+p217
+sg5
+S'br br stopping with the plot i would'
+p218
+ssS'8899_7'
+p219
+(dp220
+g3
+S'is'
+p221
+sg5
+S'asterix and the vikings is the first animated'
+p222
+ssS'388_1'
+p223
+(dp224
+g3
+S'nasty'
+p225
+sg5
+S'closet land is a nasty piece of work'
+p226
+ssS'100580'
+p227
+(dp228
+g3
+S'do'
+p229
+sg5
+S'nonspecific defenses against disease include the barrier of the skin and the inflammation response these defenses are called nonspecific because they'
+p230
+ssS'8358_4'
+p231
+(dp232
+g3
+S'impossible'
+p233
+sg5
+S'i found it almost impossible to empathize with'
+p234
+ssS'100267'
+p235
+(dp236
+g3
+S'injection'
+p237
+sg5
+S'both volcanic eruptions and asteroid impacts have catastrophically affected the climate because of'
+p238
+ssS'100269'
+p239
+(dp240
+g3
+S'shorter'
+p241
+sg5
+S'sunblock protects the skin from the suns harmful ultraviolet a and ultraviolet b waves ultraviolet a and ultraviolet b waves are'
+p242
+ssS'349_10'
+p243
+(dp244
+g3
+S'should'
+p245
+sg5
+S'so i think you should absolutely get it'
+p246
+ssS'840_2'
+p247
+(dp248
+g3
+S'opening'
+p249
+sg5
+S'br br during the opening credits of the'
+p250
+ssS'2155_1'
+p251
+(dp252
+g3
+S'to'
+p253
+sg5
+S'theres no use trying to describe in detail'
+p254
+ssS'9286_10'
+p255
+(dp256
+g3
+S'allowed'
+p257
+sg5
+S'if i was only allowed to watch one'
+p258
+ssS'101016'
+p259
+(dp260
+g3
+S'physical'
+p261
+sg5
+S'changes to a substance that do not involve a permanent reordering of atoms are known as'
+p262
+ssS'100497'
+p263
+(dp264
+g3
+S'photosynthesis'
+p265
+sg5
+S'plants convert carbon dioxide and water into sugar through a process called'
+p266
+ssS'102210'
+p267
+(dp268
+g3
+S'fertilization'
+p269
+sg5
+S'a diploid organism is formed in the process of'
+p270
+ssS'102034'
+p271
+(dp272
+g3
+S'damaging'
+p273
+sg5
+S'antibiotics commonly used to treat infection work by'
+p274
+ssS'5333_10'
+p275
+(dp276
+g3
+S'huge'
+p277
+sg5
+S'following on from the huge success of nick'
+p278
+ssS'102139'
+p279
+(dp280
+g3
+S'become'
+p281
+sg5
+S'stem cells are undifferentiated human cells they are important to medical research because of their ability to'
+p282
+ssS'102138'
+p283
+(dp284
+g3
+S'reacted'
+p285
+sg5
+S'after two different elements are heated together the product has different chemical properties this is evidence that the two elements have'
+p286
+ssS'102137'
+p287
+(dp288
+g3
+S'in'
+p289
+sg5
+S'the two major divisions of the nervous system are the central nervous system and the peripheral nervous system the central nervous system includes all of the neurons'
+p290
+ssS'102136'
+p291
+(dp292
+g3
+S'sugar'
+p293
+sg5
+S'the energy captured in the process of photosynthesis is stored as'
+p294
+ssS'101948'
+p295
+(dp296
+g3
+S'position'
+p297
+sg5
+S'when describing an objects motion a reference point must be known the distance from the origin or reference point describes an objects'
+p298
+ssS'11182_8'
+p299
+(dp300
+g3
+S'the'
+p301
+sg5
+S'another fantastic offering from the monkey island team'
+p302
+ssS'7981_7'
+p303
+(dp304
+g3
+S'returns'
+p305
+sg5
+S'br br michael keaton returns as the batman'
+p306
+ssS'4487_4'
+p307
+(dp308
+g3
+S'to'
+p309
+sg5
+S'i was looking forward to seeing two bright'
+p310
+ssS'2897_10'
+p311
+(dp312
+g3
+S'an'
+p313
+sg5
+S'br br this is an astonishing performance and'
+p314
+ssS'100725'
+p315
+(dp316
+g3
+S'brain'
+p317
+sg5
+S'the nervous system is responsible for sensing and responding to internal and external stimuli however sensations and responses dont become conscious to the individual until they are processed in the'
+p318
+ssS'1420_4'
+p319
+(dp320
+g3
+S'movie'
+p321
+sg5
+S'interesting and short television movie describes some of'
+p322
+ssS'1415_9'
+p323
+(dp324
+g3
+S'errol'
+p325
+sg5
+S'br br according to errol morriss equally curious'
+p326
+ssS'6884_7'
+p327
+(dp328
+g3
+S'starts'
+p329
+sg5
+S'br br the movie starts slowly but i'
+p330
+ssS'9369_8'
+p331
+(dp332
+g3
+S'the'
+p333
+sg5
+S'crossfire remains one of the best hollywood message'
+p334
+ssS'101228'
+p335
+(dp336
+g3
+S'nucleus'
+p337
+sg5
+S'most of the dna in a cell can be found in the'
+p338
+ssS'10616_1'
+p339
+(dp340
+g3
+S'seen'
+p341
+sg5
+S'the worst movie ive seen in years and'
+p342
+ssS'1179_7'
+p343
+(dp344
+g3
+S'laughs'
+p345
+sg5
+S'i got a few laughs out of this'
+p346
+ssS'102047'
+p347
+(dp348
+g3
+S'fungus'
+p349
+sg5
+S'you are observing an organism and its reproductive cycle you find that this organism can reproduce sexually by their hyphae exchanging genetic information and asexually through the use of spores this organism is most likely classified as a'
+p350
+ssS'100649'
+p351
+(dp352
+g3
+S'food'
+p353
+sg5
+S'plants cells contain chloroplasts necessary for the production of'
+p354
+ssS'100317'
+p355
+(dp356
+g3
+S'pivot'
+p357
+sg5
+S'a joint like the one between the skull and vertebral column in which a projection on one bone fits into a notch on another bone is classified as a'
+p358
+ssS'100867'
+p359
+(dp360
+g3
+S'carbohydrates'
+p361
+sg5
+S'sugars are the smaller units that are used to make'
+p362
+ssS'100866'
+p363
+(dp364
+g3
+S'milky'
+p365
+sg5
+S'earth is located on the outer edge of the discshaped'
+p366
+ssS'6312_1'
+p367
+(dp368
+g3
+S'of'
+p369
+sg5
+S'this movie has some of the worst acting'
+p370
+ssS'3102_10'
+p371
+(dp372
+g3
+S'for'
+p373
+sg5
+S'there is a need for this kind of'
+p374
+ssS'10993_1'
+p375
+(dp376
+g3
+S'happens'
+p377
+sg5
+S'br br as nothings happens the void is'
+p378
+ssS'7436_4'
+p379
+(dp380
+g3
+S'enjoy'
+p381
+sg5
+S'br br kids would enjoy this moviesimply because'
+p382
+ssS'7562_3'
+p383
+(dp384
+g3
+S'the'
+p385
+sg5
+S'and the director of the film didnt took'
+p386
+ssS'1640_8'
+p387
+(dp388
+g3
+S'one'
+p389
+sg5
+S'br br incidentally theres one direct link between'
+p390
+ssS'9768_10'
+p391
+(dp392
+g3
+S'film'
+p393
+sg5
+S'i have seen this film at least 100'
+p394
+ssS'5207_3'
+p395
+(dp396
+g3
+S'all'
+p397
+sg5
+S'br br first of all this film is'
+p398
+ssS'11648_10'
+p399
+(dp400
+g3
+S'one'
+p401
+sg5
+S'br br this is one of the few'
+p402
+ssS'4480_2'
+p403
+(dp404
+g3
+S'shoot'
+p405
+sg5
+S'heck i wanted to shoot john in the'
+p406
+ssS'101722'
+p407
+(dp408
+g3
+S'covalent'
+p409
+sg5
+S'when carbon joins with other elements the bond generally used is an'
+p410
+ssS'100920'
+p411
+(dp412
+g3
+S'flexion'
+p413
+sg5
+S'movement that occurs when a muscle contracts to bring two bones that are in the same joint closer together is called'
+p414
+ssS'7494_9'
+p415
+(dp416
+g3
+S'good'
+p417
+sg5
+S'it is a damn good moviewith some surprising'
+p418
+ssS'101832'
+p419
+(dp420
+g3
+S'compound'
+p421
+sg5
+S'when two or more different elements are combined an'
+p422
+ssS'101037'
+p423
+(dp424
+g3
+S'atoms'
+p425
+sg5
+S'a molecule is composed of two or more'
+p426
+ssS'9457_1'
+p427
+(dp428
+g3
+S'is'
+p429
+sg5
+S'br br the plot is simple the direction'
+p430
+ssS'101033'
+p431
+(dp432
+g3
+S'dominant'
+p433
+sg5
+S'if a certain allele always determines the phenotypical expression of a gene then it is referred to as the'
+p434
+ssS'162_8'
+p435
+(dp436
+g3
+S'typical'
+p437
+sg5
+S'bloody birthday is a typical slasher from early'
+p438
+ssS'7566_9'
+p439
+(dp440
+g3
+S'as'
+p441
+sg5
+S'br br as far as the story and'
+p442
+ssS'100125'
+p443
+(dp444
+g3
+S'plant'
+p445
+sg5
+S'chlorophyll is a pigment found within the chloroplast of a cell if scientists find chlorophyll in a sample of cells they know that the cell sample came from an'
+p446
+ssS'10667_10'
+p447
+(dp448
+g3
+S'want'
+p449
+sg5
+S'br br some may want to check it'
+p450
+ssS'4897_8'
+p451
+(dp452
+g3
+S'back'
+p453
+sg5
+S'br br at the back was peter kay'
+p454
+ssS'11690_1'
+p455
+(dp456
+g3
+S'watch'
+p457
+sg5
+S'br br please dont watch this movie it'
+p458
+ssS'101529'
+p459
+(dp460
+g3
+S'products'
+p461
+sg5
+S'photosynthesis is the process by which plants use carbon dioxide water and energy from the sun to form oxygen and energyrich sugar molecules in this reaction oxygen and energyrich sugar molecules are the only'
+p462
+ssS'100035'
+p463
+(dp464
+g3
+S'adaptation'
+p465
+sg5
+S'populations respond over time to changing environments through the process of'
+p466
+ssS'100036'
+p467
+(dp468
+g3
+S'all'
+p469
+sg5
+S'the number and sequence of amino acids in a protein determines its'
+p470
+ssS'281_8'
+p471
+(dp472
+g3
+S'of'
+p473
+sg5
+S'excellent and moving story of the end of'
+p474
+ssS'10267_7'
+p475
+(dp476
+g3
+S'concerns'
+p477
+sg5
+S'br br the film concerns the freethinking social'
+p478
+ssS'101524'
+p479
+(dp480
+g3
+S'contractions'
+p481
+sg5
+S'blood pressure is generated by'
+p482
+ssS'102176'
+p483
+(dp484
+g3
+S'black'
+p485
+sg5
+S'scientists believe that the suns final stage will be a'
+p486
+ssS'10269_4'
+p487
+(dp488
+g3
+S'thats'
+p489
+sg5
+S'br br but and thats a huge but'
+p490
+ssS'5460_10'
+p491
+(dp492
+g3
+S'cable'
+p493
+sg5
+S'although a made for cable film by hbo'
+p494
+ssS'2072_8'
+p495
+(dp496
+g3
+S'filming'
+p497
+sg5
+S'part of the bbc filming of all of'
+p498
+ssS'611_1'
+p499
+(dp500
+g3
+S'savvy'
+p501
+sg5
+S'american audiences are quite savvy and if they'
+p502
+ssS'102151'
+p503
+(dp504
+g3
+S'mitochondria'
+p505
+sg5
+S'the energy to make proteins in a cell is produced in the'
+p506
+ssS'12424_4'
+p507
+(dp508
+g3
+S'id'
+p509
+sg5
+S'i completely forgot that id seen this within'
+p510
+ssS'100834'
+p511
+(dp512
+g3
+S'decomposers'
+p513
+sg5
+S'leaf litter on the forest floor becomes new soil through the actions of'
+p514
+ssS'8012_7'
+p515
+(dp516
+g3
+S'friends'
+p517
+sg5
+S'me and a coupla friends form university alberto'
+p518
+ssS'102157'
+p519
+(dp520
+g3
+S'many'
+p521
+sg5
+S'insulin an important hormone in humans can be synthesized in animals such as horses and used by humans with diabetes because'
+p522
+ssS'101615'
+p523
+(dp524
+g3
+S'force'
+p525
+sg5
+S'the formation of the planets moons stars and solar systems into a spherical shape is due to the'
+p526
+ssS'100428'
+p527
+(dp528
+g3
+S'upwellings'
+p529
+sg5
+S'in some areas deep currents are pulled toward the surface near continents these areas best known as'
+p530
+ssS'100421'
+p531
+(dp532
+g3
+S'become'
+p533
+sg5
+S'california condors have become endangered due to loss of natural habitat if future condor generations do not have characteristics that adapt to environmental changes they will most likely'
+p534
+ssS'8556_1'
+p535
+(dp536
+g3
+S'you'
+p537
+sg5
+S'how can any of you call this propaganda'
+p538
+ssS'101619'
+p539
+(dp540
+g3
+S'motion'
+p541
+sg5
+S'the change of position relative to a reference point describes an objects'
+p542
+ssS'100424'
+p543
+(dp544
+g3
+S'comparative'
+p545
+sg5
+S'similarities in the body structure of different organisms provide evidence that supports the theory of evolution this type of evidence is known as'
+p546
+ssS'2876_1'
+p547
+(dp548
+g3
+S'it'
+p549
+sg5
+S'br br i mean it is quite common'
+p550
+ssS'10421_4'
+p551
+(dp552
+g3
+S'is'
+p553
+sg5
+S'br br toby dammit is a fine fellini'
+p554
+ssS'5238_2'
+p555
+(dp556
+g3
+S'very'
+p557
+sg5
+S'bad acting combats are very awful 34 second'
+p558
+ssS'10231_4'
+p559
+(dp560
+g3
+S'princess'
+p561
+sg5
+S'br br the swan princess the mystery of'
+p562
+ssS'101455'
+p563
+(dp564
+g3
+S'passive'
+p565
+sg5
+S'the process in which substances enter the cell without the use of energy is called'
+p566
+ssS'102300'
+p567
+(dp568
+g3
+g161
+sg5
+S'a physical change occurs when'
+p569
+ssS'972_7'
+p570
+(dp571
+g3
+S'movie'
+p572
+sg5
+S'this isnt a lifechanging movie its not an'
+p573
+ssS'1241_7'
+p574
+(dp575
+g3
+S'that'
+p576
+sg5
+S'br br other than that everything looks ok'
+p577
+ssS'12128_7'
+p578
+(dp579
+g3
+S'of'
+p580
+sg5
+S'a very accurate depiction of small time mob'
+p581
+ssS'10561_2'
+p582
+(dp583
+g3
+S'occasional'
+p584
+sg5
+S'br br there were occasional moments that it'
+p585
+ssS'102308'
+p586
+(dp587
+g3
+S'comparative'
+p588
+sg5
+S'a vestigial structure is a nonfunctioning organ or other structure that had a function in an evolutionary ancestor vestigial structures are lines of evidence for evolution that come from'
+p589
+ssS'9884_10'
+p590
+(dp591
+g3
+S'seem'
+p592
+sg5
+S'br br they only seem to like the'
+p593
+ssS'7455_9'
+p594
+(dp595
+g3
+S'four'
+p596
+sg5
+S'i have seen about four episodes of this'
+p597
+ssS'5638_2'
+p598
+(dp599
+g3
+S'tub'
+p600
+sg5
+S'br br the hot tub scene the scrabble'
+p601
+ssS'101185'
+p602
+(dp603
+g3
+S'remain'
+p604
+sg5
+S'scuba divers will often use weights to change their relative buoyancy if the scuba divers weight is equal to the buoyant force of the water the diver will'
+p605
+ssS'9046_1'
+p606
+(dp607
+g3
+S'from'
+p608
+sg5
+S'br br stay away from this trash its'
+p609
+ssS'9972_3'
+p610
+(dp611
+g3
+g161
+sg5
+S'this film is about a woman falling in'
+p612
+ssS'7710_8'
+p613
+(dp614
+g3
+S'all'
+p615
+sg5
+S'br br all in all this is a'
+p616
+ssS'100694'
+p617
+(dp618
+g3
+S'large'
+p619
+sg5
+S'with relation to ocean currents gyres are'
+p620
+ssS'9406_8'
+p621
+(dp622
+g3
+S'told'
+p623
+sg5
+S'this great tv movie told of the 1975'
+p624
+ssS'11923_2'
+p625
+(dp626
+g3
+S'the'
+p627
+sg5
+S'br br karyn kusama the so called director'
+p628
+ssS'101055'
+p629
+(dp630
+g3
+S'genetic'
+p631
+sg5
+S'a population of birds of the same species has three slightly different beak sizes the differences in the beaks are most likely due to'
+p632
+ssS'101505'
+p633
+(dp634
+g3
+g161
+sg5
+S'a single gene in an organism always affects'
+p635
+ssS'3495_7'
+p636
+(dp637
+g3
+S'ali'
+p638
+sg5
+S'anyone who has seen ali g before should'
+p639
+ssS'100105'
+p640
+(dp641
+g3
+S'glucose'
+p642
+sg5
+S'in order for cellular respiration to occur oxygen and'
+p643
+ssS'100454'
+p644
+(dp645
+g3
+S'able'
+p646
+sg5
+S'writing careful procedures and controlling any and all known variables in an experiment will increase the chances that the data from the experiment is'
+p647
+ssS'4931_8'
+p648
+(dp649
+g3
+S'opinion'
+p650
+sg5
+S'it is in the opinion of this reviewer'
+p651
+ssS'101292'
+p652
+(dp653
+g3
+S'charles'
+p654
+sg5
+S'the basis for the modern theory of evolution was proposed by'
+p655
+ssS'100752'
+p656
+(dp657
+g3
+S'telescopes'
+p658
+sg5
+S'differences between the life cycles of stars may be revealed through the collection of data by xray'
+p659
+ssS'299_8'
+p660
+(dp661
+g3
+S'the'
+p662
+sg5
+S'br br this is the second time i'
+p663
+ssS'100050'
+p664
+(dp665
+g3
+S'star'
+p666
+sg5
+S'when the core of a protostar has reached around 10 million k the pressure within it is so immense that nuclear fusion of hydrogen begins and a'
+p667
+ssS'101113'
+p668
+(dp669
+g3
+S'fertilized'
+p670
+sg5
+S'all cells in the body including hair muscle skin and blood cells can be developmentally traced back to a single'
+p671
+ssS'102499'
+p672
+(dp673
+g3
+S'reactants'
+p674
+sg5
+S'cellular respiration is the process by which organisms form energy molecules and carbon dioxide by a chemical reaction between oxygen and glucose in this reaction oxygen and glucose are the'
+p675
+ssS'102374'
+p676
+(dp677
+g3
+S'random'
+p678
+sg5
+S'a species can escape extinction if variations of certain traits are adapted to environmental changes variations of traits in a population of species come from habitat'
+p679
+ssS'102371'
+p680
+(dp681
+g3
+S'away'
+p682
+sg5
+S'at the midatlantic ridge plates are moving'
+p683
+ssS'12380_7'
+p684
+(dp685
+g3
+S'the'
+p686
+sg5
+S'br br most of the entertainment comes the'
+p687
+ssS'8815_9'
+p688
+(dp689
+g3
+g161
+sg5
+S'br br there were a few pivotal scenes'
+p690
+ssS'8087_1'
+p691
+(dp692
+g3
+S'like'
+p693
+sg5
+S'br br i have like others before me'
+p694
+ssS'7137_8'
+p695
+(dp696
+g3
+S'some'
+p697
+sg5
+S'br br semi spoiler some of the scenes'
+p698
+ssS'10967_10'
+p699
+(dp700
+g3
+S'his'
+p701
+sg5
+S'john cassavettes decided as his first film obviously'
+p702
+ssS'101670'
+p703
+(dp704
+g3
+S'carbonbased'
+p705
+sg5
+S'scientists searching for life in the solar systems similar to life on planet earth should look primarily for'
+p706
+ssS'1067_1'
+p707
+(dp708
+g3
+S'could'
+p709
+sg5
+S'br br if i could write better in'
+p710
+ssS'102256'
+p711
+(dp712
+g3
+S'respiration'
+p713
+sg5
+S'the process of carbon being released from ecosystems as carbon dioxide gas is known as'
+p714
+ssS'9257_4'
+p715
+(dp716
+g3
+S'in'
+p717
+sg5
+S'this film was released in the uk under'
+p718
+ssS'3112_1'
+p719
+(dp720
+g3
+S'quite'
+p721
+sg5
+S'the story overall though quite graphic is actually'
+p722
+ssS'10016_8'
+p723
+(dp724
+g3
+S'much'
+p725
+sg5
+S'i was surprised how much i enjoyed this'
+p726
+ssS'10338_3'
+p727
+(dp728
+g3
+S'the'
+p729
+sg5
+S'this forth film in the angel guts saga'
+p730
+ssS'102082'
+p731
+(dp732
+g3
+S'gel'
+p733
+sg5
+S'once a section of dna has been cut into fragments using restriction enzymes one way to separate the pieces according to size shape and electrical charge is though the process known as'
+p734
+ssS'101713'
+p735
+(dp736
+g3
+S'noble'
+p737
+sg5
+S'group18 of the periodic table is known as'
+p738
+ssS'102403'
+p739
+(dp740
+g3
+S'releasing'
+p741
+sg5
+S'bacteria cause illness in humans by'
+p742
+ssS'6305_10'
+p743
+(dp744
+g3
+S'top'
+p745
+sg5
+S'br br put on top great acting from'
+p746
+ssS'102406'
+p747
+(dp748
+g3
+S'cells'
+p749
+sg5
+S'in multicellular organisms tissues are comprised of'
+p750
+ssS'102089'
+p751
+(dp752
+g3
+S'sensory'
+p753
+sg5
+S'loud music or other noise can damage structures in the inner ear that turn sound waves into electrical nerve signals these structures are known as'
+p754
+ssS'2729_8'
+p755
+(dp756
+g3
+S'might'
+p757
+sg5
+S'br br the movie might not be your'
+p758
+ssS'100193'
+p759
+(dp760
+g3
+S'igneous'
+p761
+sg5
+S'minerals that contain elements and can be dated using radioactive dating are usually formed during'
+p762
+ssS'8689_3'
+p763
+(dp764
+g3
+S'once'
+p765
+sg5
+S'uncle fred olen ray once again gives us'
+p766
+ssS'100194'
+p767
+(dp768
+g3
+S'cellulose'
+p769
+sg5
+S'one reason plant cells are different than animal cells is they contain a cell wall cell walls are composed primarily of'
+p770
+ssS'1454_4'
+p771
+(dp772
+g3
+S'with'
+p773
+sg5
+S'before hitting international acclaim with the silence of'
+p774
+ssS'101472'
+p775
+(dp776
+g3
+S'direction'
+p777
+sg5
+S'motion towards away to the right or left and up or down from the origin are all ways of describing an objects'
+p778
+ssS'9514_8'
+p779
+(dp780
+g3
+S'read'
+p781
+sg5
+S'br br now ive read the book and'
+p782
+ssS'3384_10'
+p783
+(dp784
+g3
+S'how'
+p785
+sg5
+S'br br i liked how the series showed'
+p786
+ssS'102107'
+p787
+(dp788
+g3
+S'recognize'
+p789
+sg5
+S'scientists fear that future superviruses may evolve antigens that are unrecognizable by the human immune system this would make it impossible for the immune system to'
+p790
+ssS'1866_1'
+p791
+(dp792
+g3
+S'about'
+p793
+sg5
+S'the only good thing about this film is'
+p794
+ssS'10498_10'
+p795
+(dp796
+g3
+S'to'
+p797
+sg5
+S'br br im sorry to say i had'
+p798
+ssS'8127_10'
+p799
+(dp800
+g3
+S'deals'
+p801
+sg5
+S'br br it all deals with leo kevin'
+p802
+ssS'1280_9'
+p803
+(dp804
+g3
+S'is'
+p805
+sg5
+S'br br the film is entirely in black'
+p806
+ssS'10962_7'
+p807
+(dp808
+g3
+S'say'
+p809
+sg5
+S'what is there to say about an antiestablishment'
+p810
+ssS'101482'
+p811
+(dp812
+g3
+S'vascular'
+p813
+sg5
+S'plants that have similar internal transport systems which contain xylem and phloem all have a large degree of evolutionary relatedness these plants are known as'
+p814
+ssS'2653_4'
+p815
+(dp816
+g3
+S'disappointed'
+p817
+sg5
+S'br br i am disappointed in the director'
+p818
+ssS'1753_7'
+p819
+(dp820
+g3
+S'if'
+p821
+sg5
+S'hoppity is a charming if slightly phycadelic animated'
+p822
+ssS'101484'
+p823
+(dp824
+g3
+S'evolved'
+p825
+sg5
+S'when the entire species of molerats genetically altered over time growing larger teeth and longer claws the species as a whole'
+p826
+ssS'100576'
+p827
+(dp828
+g3
+S'two'
+p829
+sg5
+S'after a cell splits through the process of mitosis'
+p830
+ssS'100579'
+p831
+(dp832
+g3
+S'respiration'
+p833
+sg5
+S'the two primary processes involved in the cycling of carbon are photosynthesis and'
+p834
+ssS'101971'
+p835
+(dp836
+g3
+S'mitosis'
+p837
+sg5
+S'the process by which cells divide is called'
+p838
+ssS'100479'
+p839
+(dp840
+g3
+S'gravitational'
+p841
+sg5
+S'the earth is kept in its rotational orbit around the sun by'
+p842
+ssS'3943_3'
+p843
+(dp844
+g3
+S'horror'
+p845
+sg5
+S'a mediocre at best horror flick that deals'
+p846
+ssS'100070'
+p847
+(dp848
+g3
+S'decrease'
+p849
+sg5
+S'the relationship between force and mass is represented in the equation force mass x acceleration in this relationship if the mass of the object increases with no change in the force the acceleration of the object will'
+p850
+ssS'11024_9'
+p851
+(dp852
+g3
+S'stunning'
+p853
+sg5
+S'niagara niagara is a stunning and heartbreaking story'
+p854
+ssS'102275'
+p855
+(dp856
+g3
+S'number'
+p857
+sg5
+S'proteins differ from one another in the'
+p858
+ssS'102277'
+p859
+(dp860
+g3
+S'anaerobic'
+p861
+sg5
+S'according to the fossil record the earliest life forms to develop on earth were'
+p862
+ssS'102270'
+p863
+(dp864
+g3
+S'global'
+p865
+sg5
+S'many scientists hold to the theory that the dinosaurs were forced to extinction by a major asteroid collision although the asteroid itself probably did not kill all of the dinosaurs directly the asteroid impact most likely led directly to'
+p866
+ssS'4586_10'
+p867
+(dp868
+g3
+S'normally'
+p869
+sg5
+S'br br also i normally watch movies with'
+p870
+ssS'100469'
+p871
+(dp872
+g3
+S'liquid'
+p873
+sg5
+S'elias is examining an unknown substance discovered within a meteorite called compound x he is using an electron microscope to examine the particles of the substance the particles of compound x appear to be weakly attracted to each other and are able to slide past one another freely compound x is most likely a'
+p874
+ssS'4844_1'
+p875
+(dp876
+g3
+S'sure'
+p877
+sg5
+S'in the end im sure most of you'
+p878
+ssS'101277'
+p879
+(dp880
+g3
+S'float'
+p881
+sg5
+S'many times scuba divers use weights to change their relative buoyancy if the scuba divers weight is less than the buoyant force of the water the diver will'
+p882
+ssS'100996'
+p883
+(dp884
+g3
+S'egg'
+p885
+sg5
+S'the __________ is the female sex cell whereas the'
+p886
+ssS'12490_10'
+p887
+(dp888
+g3
+g161
+sg5
+S'first of allthere is a detective storylgitime dfense'
+p889
+ssS'102294'
+p890
+(dp891
+g3
+S'the'
+p892
+sg5
+S'the placement of preserved organisms in different layers of rock formation that gives evidence to support the theory of evolution is known as'
+p893
+ssS'11586_1'
+p894
+(dp895
+g3
+S'in'
+p896
+sg5
+S'ewwwwwww not even fun in a bad movie'
+p897
+ssS'5138_2'
+p898
+(dp899
+g3
+S'really'
+p900
+sg5
+S'forgettable pilot that never really explains why nostradamus'
+p901
+ssS'102354'
+p902
+(dp903
+g3
+S'dna'
+p904
+sg5
+S'a cell from a tree a cell from a turtle and a cell from a human all contain'
+p905
+ssS'11641_2'
+p906
+(dp907
+g3
+S'probably'
+p908
+sg5
+S'br br this is probably the worst film'
+p909
+ssS'8061_3'
+p910
+(dp911
+g3
+S'notorious'
+p912
+sg5
+S'one of the most notorious of the banned'
+p913
+ssS'100782'
+p914
+(dp915
+g3
+S'evolutionary'
+p916
+sg5
+S'natural selection and genetic drift drives'
+p917
+ssS'101807'
+p918
+(dp919
+g3
+S'7'
+p920
+sg5
+S'most human enzymes work only in environments with a neutral ph when measuring the ph of blood an investigator would predict a ph value of'
+p921
+ssS'101802'
+p922
+(dp923
+g3
+S'elements'
+p924
+sg5
+S'living organisms are largely made of carbon hydrogen oxygen nitrogen phosphorus and sulfur which are all different types of'
+p925
+ssS'5918_7'
+p926
+(dp927
+g3
+S'life'
+p928
+sg5
+S'biographical tale of the life of charles lindbergh'
+p929
+ssS'101800'
+p930
+(dp931
+g3
+S'adaptation'
+p932
+sg5
+S'camouflage and mimicry are examples of'
+p933
+ssS'101652'
+p934
+(dp935
+g3
+S'blocking'
+p936
+sg5
+S'early in earths history there was a lack of oxygen in the atmosphere photosynthesis added the needed oxygen to the atmosphere which affected the climate by'
+p937
+ssS'10474_3'
+p938
+(dp939
+g3
+S'although'
+p940
+sg5
+S'br br im sorry although john knowles himself'
+p941
+ssS'1350_3'
+p942
+(dp943
+g3
+S'under'
+p944
+sg5
+S'br br bette was under used and anne'
+p945
+ssS'100275'
+p946
+(dp947
+g3
+S'real'
+p948
+sg5
+S'an image that can be projected onto a screen due to the fact that light can pass through it is called a'
+p949
+ssS'101396'
+p950
+(dp951
+g3
+S'outside'
+p952
+sg5
+S'the peripheral nervous system is composed of all of the neurons'
+p953
+ssS'10272_7'
+p954
+(dp955
+g3
+S'but'
+p956
+sg5
+S'a movie visually graceful but interesting is mainly'
+p957
+ssS'1013_1'
+p958
+(dp959
+g3
+S'br'
+p960
+sg5
+S'naked deanna troi br br richies brother chuck'
+p961
+ssS'3128_1'
+p962
+(dp963
+g3
+S'scenes'
+p964
+sg5
+S'br br there are scenes that are unintentionally'
+p965
+ssS'100175'
+p966
+(dp967
+g3
+S'layered'
+p968
+sg5
+S'the continuous changing of earths surface is evidence that supports the nebular hypothesis earths surface continues to change because of its'
+p969
+ssS'101003'
+p970
+(dp971
+g3
+S'mitochondria'
+p972
+sg5
+S'the structures responsible for completing the breakdown of carbohydrates into usable energy for the cell are the'
+p973
+ssS'101001'
+p974
+(dp975
+g3
+S'chloroplasts'
+p976
+sg5
+S'mitochondria are to cellular respiration as'
+p977
+ssS'3256_10'
+p978
+(dp979
+g3
+g161
+sg5
+S'br br there were a couple of things'
+p980
+ssS'100396'
+p981
+(dp982
+g3
+S'paleomagnetism'
+p983
+sg5
+S'one type of evidence that supported plate tectonics came from'
+p984
+ssS'8245_10'
+p985
+(dp986
+g3
+S'movie'
+p987
+sg5
+S'in my opinion the movie is an excellent'
+p988
+ssS'8491_8'
+p989
+(dp990
+g3
+S'also'
+p991
+sg5
+S'br br bad i also remember through this'
+p992
+ssS'101897'
+p993
+(dp994
+g3
+S'opaque'
+p995
+sg5
+S'materials that only allow some light to be absorbed and the rest of the light to be reflected are called'
+p996
+ssS'90_9'
+p997
+(dp998
+g3
+S'short'
+p999
+sg5
+S'i throughly enjoyed this short even as a'
+p1000
+ssS'5534_8'
+p1001
+(dp1002
+g3
+S'comedy'
+p1003
+sg5
+S'strange but acceptable mob comedy that has an'
+p1004
+ssS'9867_8'
+p1005
+(dp1006
+g3
+S'film'
+p1007
+sg5
+S'i personally love this film amidst the halloween'
+p1008
+ssS'9526_10'
+p1009
+(dp1010
+g3
+S'the'
+p1011
+sg5
+S'i think together all the reviewers have captured'
+p1012
+ssS'4125_1'
+p1013
+(dp1014
+g3
+S'film'
+p1015
+sg5
+S'this is the worst film ive seen in'
+p1016
+ssS'100417'
+p1017
+(dp1018
+g3
+S'spiral'
+p1019
+sg5
+S'the milky way galaxy is an'
+p1020
+ssS'8434_10'
+p1021
+(dp1022
+g3
+S'as'
+p1023
+sg5
+S'br br it scores as a thriller the'
+p1024
+ssS'8519_8'
+p1025
+(dp1026
+g3
+S'meets'
+p1027
+sg5
+S'br br eventually bond meets the beautiful blond'
+p1028
+ssS'3295_1'
+p1029
+(dp1030
+g3
+S'how'
+p1031
+sg5
+S'what was he thinking how sad an actor'
+p1032
+ssS'100556'
+p1033
+(dp1034
+g3
+S'posing'
+p1035
+sg5
+S'oral presentations and written reports communicate information discovered through a scientific process that usually begins with'
+p1036
+ssS'5378_7'
+p1037
+(dp1038
+g3
+S'what'
+p1039
+sg5
+S'i had no idea what i was going'
+p1040
+ssS'6871_3'
+p1041
+(dp1042
+g3
+S'does'
+p1043
+sg5
+S'br br walter pigeon does not hold up'
+p1044
+ssS'100098'
+p1045
+(dp1046
+g3
+S'mutation'
+p1047
+sg5
+S'fossil evidence can be used to tell us about all of these except'
+p1048
+ssS'10006_2'
+p1049
+(dp1050
+g3
+S'of'
+p1051
+sg5
+S'being a longtime fan of japanese film i'
+p1052
+ssS'100090'
+p1053
+(dp1054
+g3
+S'release'
+p1055
+sg5
+S'the function of the mitochondria in plant cells is to'
+p1056
+ssS'100308'
+p1057
+(dp1058
+g3
+S'on'
+p1059
+sg5
+S'our solar system is located'
+p1060
+ssS'100658'
+p1061
+(dp1062
+g3
+S'semipermeable'
+p1063
+sg5
+S'cells are enclosed within'
+p1064
+ssS'102451'
+p1065
+(dp1066
+g3
+S'time'
+p1067
+sg5
+S'craig is training for a marathon and wants to create a graph of his position throughout the race the horizontal axis of the graph would contain'
+p1068
+ssS'102196'
+p1069
+(dp1070
+g3
+S'equivalent'
+p1071
+sg5
+S'the division of a parent cell results in two daughter cells each with a genetic makeup'
+p1072
+ssS'100715'
+p1073
+(dp1074
+g3
+S'pathogens'
+p1075
+sg5
+S'the skin serves as a barrier protection against diseasecausing microorganisms known as'
+p1076
+ssS'101784'
+p1077
+(dp1078
+g3
+S'reflected'
+p1079
+sg5
+S'if light waves bounce off matter they are said to be'
+p1080
+ssS'100894'
+p1081
+(dp1082
+g3
+S'different'
+p1083
+sg5
+S'when reactants combine the resulting products need to have'
+p1084
+ssS'100893'
+p1085
+(dp1086
+g3
+S'asexual'
+p1087
+sg5
+S'the flatworm planaria is able to divide into two distinct organisms with the same dna this type of reproduction is an example of'
+p1088
+ssS'101826'
+p1089
+(dp1090
+g3
+S'guanine'
+p1091
+sg5
+S'during dna replication cytosine c pairs with'
+p1092
+ssS'11706_8'
+p1093
+(dp1094
+g3
+S'of'
+p1095
+sg5
+S'br br the combination of the central character'
+p1096
+ssS'101736'
+p1097
+(dp1098
+g3
+S'increase'
+p1099
+sg5
+S'when two planets move closer together the gravitational forces between them'
+p1100
+ssS'5225_8'
+p1101
+(dp1102
+g3
+S'have'
+p1103
+sg5
+S'br br here we have a fullfledged narrative'
+p1104
+ssS'101732'
+p1105
+(dp1106
+g3
+S'produce'
+p1107
+sg5
+S'asexual organisms differ from sexual organisms in that asexual organisms'
+p1108
+ssS'100156'
+p1109
+(dp1110
+g3
+S'carbon'
+p1111
+sg5
+S'you are roasting marshmallows with your family and you burn your marshmallow you notice the black substance on your marshmallow and your dad tells you that it is a form of carbon one of the products in this reaction is the'
+p1112
+ssS'101435'
+p1113
+(dp1114
+g3
+S'californias'
+p1115
+sg5
+S'snow that falls in sierra nevada is a major source of'
+p1116
+ssS'7186_2'
+p1117
+(dp1118
+g3
+S'the'
+p1119
+sg5
+S'br br afraid of the dark could have'
+p1120
+ssS'7812_1'
+p1121
+(dp1122
+g3
+S'couldnt'
+p1123
+sg5
+S'to be fair i couldnt bear to watch'
+p1124
+ssS'6662_9'
+p1125
+(dp1126
+g3
+S'of'
+p1127
+sg5
+S'br br the bulk of the film takes'
+p1128
+ssS'307_10'
+p1129
+(dp1130
+g3
+S'does'
+p1131
+sg5
+S'br br what exactly does this line of'
+p1132
+ssS'1063_10'
+p1133
+(dp1134
+g3
+S'can'
+p1135
+sg5
+S'and ultimately what manipulation can cost uncle felix'
+p1136
+ssS'101416'
+p1137
+(dp1138
+g3
+S'energy'
+p1139
+sg5
+S'the mitochondria in a cell release'
+p1140
+ssS'101024'
+p1141
+(dp1142
+g3
+S'velocity'
+p1143
+sg5
+S'a weatherman describes a storm approaching at 60 kmh from the north west the weatherman is describing the storms'
+p1144
+ssS'101025'
+p1145
+(dp1146
+g3
+S'redder'
+p1147
+sg5
+S'with accordance with the doppler effect if a source is moving away its light appears'
+p1148
+ssS'101534'
+p1149
+(dp1150
+g3
+S'are'
+p1151
+sg5
+S'igneous rocks usually'
+p1152
+ssS'8806_1'
+p1153
+(dp1154
+g3
+S'isaiah'
+p1155
+sg5
+S'i cant believe that isaiah washington and icet'
+p1156
+ssS'102027'
+p1157
+(dp1158
+g3
+S'sexual'
+p1159
+sg5
+S'a sperm cell can fertilize an egg cell during'
+p1160
+ssS'8413_10'
+p1161
+(dp1162
+g3
+S'now'
+p1163
+sg5
+S'br br jim hacker now finds himself inside'
+p1164
+ssS'102141'
+p1165
+(dp1166
+g3
+S'refracted'
+p1167
+sg5
+S'light that is bent as it passes through a medium is said to be'
+p1168
+ssS'8277_9'
+p1169
+(dp1170
+g3
+S'film'
+p1171
+sg5
+S'br br overall this film is a must'
+p1172
+ssS'10635_4'
+p1173
+(dp1174
+g3
+S'dealing'
+p1175
+sg5
+S'how could a film dealing with illegal mexican'
+p1176
+ssS'100436'
+p1177
+(dp1178
+g3
+S'mass'
+p1179
+sg5
+S'an episode in the geological time scale where many species die out quickly is called an'
+p1180
+ssS'2634_1'
+p1181
+(dp1182
+g3
+S'be'
+p1183
+sg5
+S'this has got to be the worst horror'
+p1184
+ssS'8879_7'
+p1185
+(dp1186
+g3
+S'it'
+p1187
+sg5
+S'br br for what it is a wacky'
+p1188
+ssS'100732'
+p1189
+(dp1190
+g3
+S'existing'
+p1191
+sg5
+S'earthquakes most often happen along'
+p1192
+ssS'12153_7'
+p1193
+(dp1194
+g3
+S'it'
+p1195
+sg5
+S'br br neither is it a masterpiece of'
+p1196
+ssS'8598_8'
+p1197
+(dp1198
+g3
+S'i'
+p1199
+sg5
+S'well where to start i stumbled across this'
+p1200
+ssS'8154_1'
+p1201
+(dp1202
+g3
+S'is'
+p1203
+sg5
+S'br br this film is just plain awful'
+p1204
+ssS'10110_10'
+p1205
+(dp1206
+g3
+S'delicious'
+p1207
+sg5
+S'the film offers some delicious moments of ghastly'
+p1208
+ssS'3409_10'
+p1209
+(dp1210
+g3
+S'is'
+p1211
+sg5
+S'br br north south is a wonderful historic'
+p1212
+ssS'5164_4'
+p1213
+(dp1214
+g3
+S'australian'
+p1215
+sg5
+S'br br im ex australian army and very'
+p1216
+ssS'101446'
+p1217
+(dp1218
+g3
+S'fertilization'
+p1219
+sg5
+S'the process by which an egg and a sperm fuse to form a zygote is called'
+p1220
+ssS'5229_3'
+p1221
+(dp1222
+g3
+S'give'
+p1223
+sg5
+S'br br i often give movies a better'
+p1224
+ssS'4605_4'
+p1225
+(dp1226
+g3
+S'who'
+p1227
+sg5
+S'br br billy moses who probably never thought'
+p1228
+ssS'8615_4'
+p1229
+(dp1230
+g3
+S'tonight'
+p1231
+sg5
+S'i watched this movie tonight and i do'
+p1232
+ssS'100324'
+p1233
+(dp1234
+g3
+S'paleozoic'
+p1235
+sg5
+S'the first time that a huge number of different organisms evolved at the same time was during the'
+p1236
+ssS'12483_4'
+p1237
+(dp1238
+g3
+S'also'
+p1239
+sg5
+S'br br this is also fulcis first foray'
+p1240
+ssS'2926_7'
+p1241
+(dp1242
+g3
+S'how'
+p1243
+sg5
+S'br br i enjoyed how they made fun'
+p1244
+ssS'101194'
+p1245
+(dp1246
+g3
+S'protons'
+p1247
+sg5
+S'the atomic number of an atom tells the number of'
+p1248
+ssS'11605_1'
+p1249
+(dp1250
+g3
+S'really'
+p1251
+sg5
+S'br br if you really love hitchcock avoid'
+p1252
+ssS'8116_4'
+p1253
+(dp1254
+g3
+S'tale'
+p1255
+sg5
+S'br br indeed kings tale of a small'
+p1256
+ssS'100938'
+p1257
+(dp1258
+g3
+S'all'
+p1259
+sg5
+S'the skin produces an acidic mantle that provides protection against'
+p1260
+ssS'101849'
+p1261
+(dp1262
+g3
+S'neutrons'
+p1263
+sg5
+S'an element that has a different number of'
+p1264
+ssS'5099_10'
+p1265
+(dp1266
+g3
+S'the'
+p1267
+sg5
+S'br br thanks to the wonderful people at'
+p1268
+ssS'8180_3'
+p1269
+(dp1270
+g3
+S'spectacles'
+p1271
+sg5
+S'br br with red spectacles i was only'
+p1272
+ssS'11200_4'
+p1273
+(dp1274
+g3
+S'my'
+p1275
+sg5
+S'i went out of my way to get'
+p1276
+ssS'1201_10'
+p1277
+(dp1278
+g3
+S'musical'
+p1279
+sg5
+S'im not a big musical fan but this'
+p1280
+ssS'4910_8'
+p1281
+(dp1282
+g3
+S'movie'
+p1283
+sg5
+S'br br very entertaining movie was a big'
+p1284
+ssS'1101_4'
+p1285
+(dp1286
+g3
+S'her'
+p1287
+sg5
+S'having spent all of her money caring for'
+p1288
+ssS'100133'
+p1289
+(dp1290
+g3
+S'mrna'
+p1291
+sg5
+S'the information for protein synthesis is carried out of the nucleus to the ribosome by'
+p1292
+ssS'101046'
+p1293
+(dp1294
+g3
+S'chandra'
+p1295
+sg5
+S'to study certain rays nasa uses the'
+p1296
+ssS'3961_2'
+p1297
+(dp1298
+g3
+S'this'
+p1299
+sg5
+S'hes a dog and this movie is a'
+p1300
+ssS'100356'
+p1301
+(dp1302
+g3
+S'monomers'
+p1303
+sg5
+S'polymers are made from'
+p1304
+ssS'2200_2'
+p1305
+(dp1306
+g3
+S'area'
+p1307
+sg5
+S'br br the one area in which the'
+p1308
+ssS'100506'
+p1309
+(dp1310
+g3
+S'nonmetal'
+p1311
+sg5
+S'your science instructor gives you a sample of an element and asks you to classify it based on its properties you find that this substance is a poor conductor of electrical current a poor conductor of heat and its appearance is dull and brittle based on these observations you can determine that the substance is a'
+p1312
+ssS'10050_4'
+p1313
+(dp1314
+g3
+S'tells'
+p1315
+sg5
+S'br br the film tells the story of'
+p1316
+ssS'101697'
+p1317
+(dp1318
+g3
+S'environmental'
+p1319
+sg5
+S'species extinction usually occurs when'
+p1320
+ssS'4509_9'
+p1321
+(dp1322
+g3
+S'recommend'
+p1323
+sg5
+S'br br anyways i recommend this movie to'
+p1324
+ssS'101121'
+p1325
+(dp1326
+g3
+S'fossils'
+p1327
+sg5
+S'the preserved remains of ancient organisms that allow scientists to determine their structure are called'
+p1328
+ssS'101998'
+p1329
+(dp1330
+g3
+S'hot'
+p1331
+sg5
+S'the trunk of the african baobab tree can store up to 100 kiloliters of water this adaptation would be a selective advantage in a climate that is'
+p1332
+ssS'276_10'
+p1333
+(dp1334
+g3
+g1199
+sg5
+S'i was halfdozing as i watched a late'
+p1335
+ssS'6854_1'
+p1336
+(dp1337
+g3
+S'me'
+p1338
+sg5
+S'would someone explain to me when the ghoulies'
+p1339
+ssS'102002'
+p1340
+(dp1341
+g3
+S'organelles'
+p1342
+sg5
+S'the cells in nearly all living organisms have membranebound structures that have specialized functions which are called'
+p1343
+ssS'8080_4'
+p1344
+(dp1345
+g3
+S'reappearance'
+p1346
+sg5
+S'br br before tinys reappearance or resurrection ranger'
+p1347
+ssS'101660'
+p1348
+(dp1349
+g3
+S'denitrification'
+p1350
+sg5
+S'conversion of nitrate ions to gaseous nitrogen by bacteria is'
+p1351
+ssS'8082_7'
+p1352
+(dp1353
+g3
+S'remake'
+p1354
+sg5
+S'the film is a remake of a 1956'
+p1355
+ssS'7758_8'
+p1356
+(dp1357
+g3
+S'is'
+p1358
+sg5
+S'at first sight this is yet another highschool'
+p1359
+ssS'3333_1'
+p1360
+(dp1361
+g3
+S'movie'
+p1362
+sg5
+S'br br a wonderful movie to show that'
+p1363
+ssS'1313_9'
+p1364
+(dp1365
+g3
+S'want'
+p1366
+sg5
+S'br br if you want to learn about'
+p1367
+ssS'101218'
+p1368
+(dp1369
+g3
+S'all'
+p1370
+sg5
+S'water can be seen in living organisms by'
+p1371
+ssS'100344'
+p1372
+(dp1373
+g3
+S'regulating'
+p1374
+sg5
+S'cells contain the hereditary information necessary for'
+p1375
+ssS'101741'
+p1376
+(dp1377
+g3
+S'chromatin'
+p1378
+sg5
+S'the genetic material within the nucleus is found in strands called'
+p1379
+ssS'101349'
+p1380
+(dp1381
+g3
+S'similar'
+p1382
+sg5
+S'scientists have been able to propose theories about how major geological features like the grand canyon form because they assume that geological processes today occur'
+p1383
+ssS'1447_9'
+p1384
+(dp1385
+g3
+S'films'
+p1386
+sg5
+S'if you like your films to pull your'
+p1387
+ssS'100596'
+p1388
+(dp1389
+g3
+S'zygote'
+p1390
+sg5
+S'new combinations of alleles may be formed in an'
+p1391
+ssS'100189'
+p1392
+(dp1393
+g3
+S'sexual'
+p1394
+sg5
+S'sperm and egg are necessary components of'
+p1395
+ssS'100590'
+p1396
+(dp1397
+g3
+S'unbalanced'
+p1398
+sg5
+S'if an object traveling suddenly changes in speed and direction then the object must have been acted upon by'
+p1399
+ssS'100911'
+p1400
+(dp1401
+g3
+S'weight'
+p1402
+sg5
+S'the force of the earths gravity on an object gives the object its'
+p1403
+ssS'8766_9'
+p1404
+(dp1405
+g3
+S'great'
+p1406
+sg5
+S'otto kruger makes a great main villain as'
+p1407
+ssS'2821_3'
+p1408
+(dp1409
+g3
+S'hed'
+p1410
+sg5
+S'i can imagine why hed want to die'
+p1411
+ssS'8913_1'
+p1412
+(dp1413
+g3
+S'seagal'
+p1414
+sg5
+S'i love watching steven seagal movies not because'
+p1415
+ssS'101868'
+p1416
+(dp1417
+g3
+S'favorable'
+p1418
+sg5
+S'a sudden environmental change will lead to an increase in the chance that populations with'
+p1419
+ssS'100688'
+p1420
+(dp1421
+g3
+S'condensation'
+p1422
+sg5
+S'in the water cycle the formation of clouds through the change of water from a gas back into a liquid is known as'
+p1423
+ssS'100567'
+p1424
+(dp1425
+g3
+S'evaporating'
+p1426
+sg5
+S'scientists believe that in early history the runaway greenhouse effect on venus lead to its'
+p1427
+ssS'100565'
+p1428
+(dp1429
+g3
+S'herbivore'
+p1430
+sg5
+S'a heterotroph that feeds only on plants is an'
+p1431
+ssS'100683'
+p1432
+(dp1433
+g3
+S'faster'
+p1434
+sg5
+S'when calculating distance in space planets appear to move'
+p1435
+ssS'100568'
+p1436
+(dp1437
+g3
+S'electromagnetic'
+p1438
+sg5
+S'visible light is part of the'
+p1439
+ssS'102241'
+p1440
+(dp1441
+g3
+S'flower'
+p1442
+sg5
+S'the reproductive structures on a flowering plant that are involved in generating seeds and fruit are located in the'
+p1443
+ssS'7429_1'
+p1444
+(dp1445
+g3
+S'it'
+p1446
+sg5
+S'br br i found it on a second'
+p1447
+ssS'11667_2'
+p1448
+(dp1449
+g3
+S'obscene'
+p1450
+sg5
+S'nothing i wrote was obscene or racist in'
+p1451
+ssS'362_2'
+p1452
+(dp1453
+g3
+S'and'
+p1454
+sg5
+S'if b movies tired and corny scripts and'
+p1455
+ssS'2374_7'
+p1456
+(dp1457
+g3
+S'sho'
+p1458
+sg5
+S'the final installment sees sho aikawa and riki'
+p1459
+ssS'10923_7'
+p1460
+(dp1461
+g3
+S'brothersthey'
+p1462
+sg5
+S'if they are not brothersthey wont have so'
+p1463
+ssS'100764'
+p1464
+(dp1465
+g3
+S'billions'
+p1466
+sg5
+S'a galaxy is made up of'
+p1467
+ssS'102163'
+p1468
+(dp1469
+g3
+S'muscle'
+p1470
+sg5
+S'simple lever systems include a rod a fulcrum and a force in human body lever systems the force is usually provided by a'
+p1471
+ssS'100768'
+p1472
+(dp1473
+g3
+S'react'
+p1474
+sg5
+S'in order for the eye to process color retinal cells'
+p1475
+ssS'101262'
+p1476
+(dp1477
+g3
+S'question'
+p1478
+sg5
+S'a researcher is explaining the scientific concepts behind an investigation into a new diabetes treatment before she talks about the hypothesis of her experiment she must explain the'
+p1479
+ssS'1325_9'
+p1480
+(dp1481
+g3
+S'pretty'
+p1482
+sg5
+S'the first season told pretty much how all'
+p1483
+ssS'1494_4'
+p1484
+(dp1485
+g3
+S'decent'
+p1486
+sg5
+S'there is also some decent gore on display'
+p1487
+ss.
