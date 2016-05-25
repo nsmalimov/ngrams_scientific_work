@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import matplotlib.pyplot as plt
-
 import models.american_english
 
 
@@ -85,7 +84,7 @@ def reformat_to_probability(gram_num):
         if (arr[i][-1] > 1):
             arr[i][-1] = 1
 
-    f = open("/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/" + str(gram_num) +
+    f = open("/american_english/in_probably/" + str(gram_num) +
              "gram.txt", "w")
     for i in arr:
         f.write(str(i[-1]) + " " + " ".join(i[:gram_num]) + "\n")
@@ -93,7 +92,7 @@ def reformat_to_probability(gram_num):
 
 
 def test():
-    f = open("/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/2gram.txt", "r")
+    f = open("/american_english/in_probably/2gram.txt", "r")
     count = 0
     arr = []
     for i in f.readlines():

@@ -6,15 +6,15 @@ import json
 
 from utils.api_microsoft import *
 
-filename_2gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w2.txt"
-filename_3gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w3.txt"
-filename_4gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w4.txt"
-filename_5gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w5.txt"
+filename_2gram = "/american_english/w2.txt"
+filename_3gram = "/american_english/w3.txt"
+filename_4gram = "/american_english/w4.txt"
+filename_5gram = "/american_english/w5.txt"
 
-filename_proba_2gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/2gram.txt"
-filename_proba_3gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/3gram.txt"
-filename_proba_4gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/4gram.txt"
-filename_proba_5gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/5gram.txt"
+filename_proba_2gram = "/american_english/in_probably/2gram.txt"
+filename_proba_3gram = "/american_english/in_probably/3gram.txt"
+filename_proba_4gram = "/american_english/in_probably/4gram.txt"
+filename_proba_5gram = "/american_english/in_probably/5gram.txt"
 
 ngrams_filename = [filename_2gram, filename_3gram, filename_4gram, filename_5gram]
 
@@ -100,7 +100,7 @@ def reformat_to_probability(gram_num):
         if (arr[i][-1] > 1):
             arr[i][-1] = 1
 
-    f = open("/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/" + str(gram_num) +
+    f = open("/american_english/in_probably/" + str(gram_num) +
              "gram.txt", "w")
     for i in arr:
         f.write(str(i[-1]) + " " + " ".join(i[:gram_num]) + "\n")
@@ -131,7 +131,7 @@ def read_ngram_files(ngrams_filename, is_main_files=True):
 
 
 def test():
-    f = open("/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/2gram.txt", "r")
+    f = open("/american_english/in_probably/2gram.txt", "r")
     count = 0
     arr = []
     for i in f.readlines():
@@ -152,25 +152,24 @@ def test():
 
 
 def microsoft_api_model():
-    # query = 0
-    #
-    # num = 0
-    # count_correct = 0
-    #
-    # for i in dict:
-    #     print num
-    #     num += 1
-    #     #print dict[i]
-    #
-    #     text = dict[i]["text"]
-    #     text_split = text.split(" ")
-    #
-    #     index_need = 0
-    #     for j in xrange(len(text_split)):
-    #         if ("_" in text_split[j]):
-    #             index_need = j
-    #
-    #     text_prepared = " ".join(text_split[0:index_need])
+    query = 0
+
+    num = 0
+    count_correct = 0
+
+    for i in dict:
+        print num
+        num += 1
+
+        text = dict[i]["text"]
+        text_split = text.split(" ")
+
+        index_need = 0
+        for j in xrange(len(text_split)):
+            if ("_" in text_split[j]):
+                index_need = j
+
+        text_prepared = " ".join(text_split[0:index_need])
 
     query = {
         "queries":
@@ -179,18 +178,6 @@ def microsoft_api_model():
                     "words": "i have a little",
                     "word": "dog"
                 }
-                # {
-                #    "words": text_prepared,
-                #    "word": dict[i]["var_2"]
-                # },
-                # {
-                #    "words": text_prepared,
-                #    "word": dict[i]["var_3"]
-                # },
-                # {
-                #    "words": text_prepared,
-                #    "word": dict[i]["var_4"]
-                # }
             ]
     }
 
@@ -217,50 +204,47 @@ def microsoft_api_model():
     answer = json.loads(answer)
 
     print answer["results"]
-    #
-    #     if (answer is None):
-    #         continue
-    #
-    #     answer = json.loads(answer)
-    #
-    #     try:
-    #         res_arr = answer["results"]
-    #     except:
-    #         continue
-    #
-    #     prob_arr = []
-    #
-    #     for j in res_arr:
-    #         prob_arr.append(j["probability"])
-    #
-    #     #print max(prob_arr)
-    #
-    #     predict_ans = prob_arr.index(max(prob_arr))
-    #     #predict_ans = random.randint(0,3)
-    #     if (dict[i]['answer'] == dict[i]["var_" + str(predict_ans+1)]):
-    #         count_correct += 1
-    #
-    #     #break
-    #
-    # print count_correct/(len(dict) + 0.0)
 
-# microsoft_api_model()
+    if (answer is None):
+        continue
 
-# reformat_to_probability(2)
-# reformat_to_probability(3)
-# reformat_to_probability(4)
-# reformat_to_probability(5)
+    answer = json.loads(answer)
 
-# arr = read_ngram_files(ngrams_proba_filename)
-#
-# pr_2gram, pr_3gram, pr_4gram, pr_5gram = get_perplexity(arr)
+    try:
+        res_arr = answer["results"]
+    except:
+        continue
 
-# print pr_2gram, pr_3gram, pr_4gram, pr_5gram
-#
-# import matplotlib.pyplot as plt
-#
-# plt.plot([2,3,4,5], [pr_2gram, pr_3gram, pr_4gram, pr_5gram], marker='o')
-# plt.xlabel("ngram")
-# plt.ylabel("perplexity")
-# plt.axis([0, 7, -20, pr_2gram + 50])
-# plt.show()
+    prob_arr = []
+
+    for j in res_arr:
+        prob_arr.append(j["probability"])
+
+    predict_ans = prob_arr.index(max(prob_arr))
+    # predict_ans = random.randint(0,3)
+    if (dict[i]['answer'] == dict[i]["var_" + str(predict_ans + 1)]):
+        count_correct += 1
+
+
+print count_correct / (len(dict) + 0.0)
+
+microsoft_api_model()
+
+reformat_to_probability(2)
+reformat_to_probability(3)
+reformat_to_probability(4)
+reformat_to_probability(5)
+
+arr = read_ngram_files(ngrams_proba_filename)
+
+pr_2gram, pr_3gram, pr_4gram, pr_5gram = get_perplexity(arr)
+
+print pr_2gram, pr_3gram, pr_4gram, pr_5gram
+
+import matplotlib.pyplot as plt
+
+plt.plot([2, 3, 4, 5], [pr_2gram, pr_3gram, pr_4gram, pr_5gram], marker='o')
+plt.xlabel("ngram")
+plt.ylabel("perplexity")
+plt.axis([0, 7, -20, pr_2gram + 50])
+plt.show()
