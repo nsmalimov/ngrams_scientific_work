@@ -2,15 +2,15 @@
 import copy
 import random
 
-filename_2gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w2.txt"
-filename_3gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w3.txt"
-filename_4gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w4.txt"
-filename_5gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/w5.txt"
+filename_2gram = "/ngrams/american_english/w2.txt"
+filename_3gram = "/ngrams/american_english/w3.txt"
+filename_4gram = "/ngrams/american_english/w4.txt"
+filename_5gram = "/ngrams/american_english/w5.txt"
 
-filename_proba_2gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/2gram.txt"
-filename_proba_3gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/3gram.txt"
-filename_proba_4gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/4gram.txt"
-filename_proba_5gram = "/Users/Nurislam/PycharmProjects/ngrams/american_english/in_probably/5gram.txt"
+filename_proba_2gram = "/ngrams/american_english/in_probably/2gram.txt"
+filename_proba_3gram = "/ngrams/american_english/in_probably/3gram.txt"
+filename_proba_4gram = "/ngrams/american_english/in_probably/4gram.txt"
+filename_proba_5gram = "/ngrams/american_english/in_probably/5gram.txt"
 
 ngrams_filename = [filename_2gram, filename_3gram, filename_4gram, filename_5gram]
 
@@ -68,9 +68,6 @@ def ngram_am(dict, arr, num_gram):
         except:
             pass
 
-        # print answer_arr
-
-        # predict_ans = answer_arr.index(max(answer_arr))
         predict_ans = random.randint(0, 3)
         if (dict[i]['answer'] == dict[i]["var_" + str(predict_ans + 1)]):
             count_correct += 1

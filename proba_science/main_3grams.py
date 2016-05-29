@@ -62,5 +62,4 @@ for i in xrange(len(arr_cd)):
     if (arr_cd[i][-1] > 1):
         arr_cd[i][-1] = 1
 
-# print arr_bcd[0]
 print arr_cd

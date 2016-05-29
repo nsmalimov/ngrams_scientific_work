@@ -29,17 +29,11 @@ def get_perplexity_am(dict, arr_all):
         text = text + " " + answer
 
         arr = text.split(" ")
-        # print arr
+
         for_2_gram = " ".join(arr[-2:])
         for_3_gram = " ".join(arr[-3:])
         for_4_gram = " ".join(arr[-4:])
         for_5_gram = " ".join(arr[-5:])
-
-        # print for_2_gram
-        # print for_3_gram
-        # print for_4_gram
-        # print for_5_gram
-
 
         try:
             s = gram_dict_2[for_2_gram]
@@ -57,82 +51,6 @@ def get_perplexity_am(dict, arr_all):
             pass
 
     print count
-
-    # count = 0
-    # for i in dict:
-    #     text = dict[i]["text"]
-    #     answer = dict[i]["answer"]
-    #
-    #     text = text + " " + answer
-    #
-    #     arr = text.split(" ")
-    #     for_2_gram = " ".join(arr[-2:])
-    #
-    #     try:
-    #         s = gram_dict_2[for_2_gram]
-    #         pr_2gram = pr_2gram * (1/(gram_dict_2[for_2_gram] + 0.0)) ** (1/(282+0.0))
-    #         count += 1
-    #     except:
-    #         pass
-    #
-    # print "2gram " + str(count)
-    #
-    # count = 0
-    # for i in dict:
-    #     text = dict[i]["text"]
-    #     answer = dict[i]["answer"]
-    #
-    #     text = text + " " + answer
-    #
-    #     arr = text.split(" ")
-    #     for_3_gram = " ".join(arr[-3:])
-    #
-    #     try:
-    #         s = gram_dict_3[for_3_gram]
-    #         pr_3gram = pr_3gram * (1/(gram_dict_3[for_3_gram] + 0.0)) ** (1/(72+0.0))
-    #         count += 1
-    #     except:
-    #         pass
-    #
-    # print "3gram " + str(count)
-    #
-    # count = 0
-    # for i in dict:
-    #     text = dict[i]["text"]
-    #     answer = dict[i]["answer"]
-    #
-    #     text = text + " " + answer
-    #
-    #     arr = text.split(" ")
-    #     for_4_gram = " ".join(arr[-4:])
-    #
-    #     try:
-    #         s = gram_dict_4[for_4_gram]
-    #         pr_4gram = pr_4gram * (1/(gram_dict_4[for_4_gram] + 0.0)) ** (1/(20+0.0))
-    #         count += 1
-    #     except:
-    #         pass
-    #
-    # print "4gram " + str(count)
-    #
-    # count = 0
-    # for i in dict:
-    #     text = dict[i]["text"]
-    #     answer = dict[i]["answer"]
-    #
-    #     text = text + " " + answer
-    #
-    #     arr = text.split(" ")
-    #     for_5_gram = " ".join(arr[-5:])
-    #
-    #     try:
-    #         s = gram_dict_5[for_5_gram]
-    #         pr_5gram = pr_5gram * (1/(gram_dict_5[for_5_gram] + 0.0)) ** (1/(7+0.0))
-    #         count += 1
-    #     except:
-    #         pass
-    #
-    # print "5gram " + str(count)
 
     print pr_2gram
     print pr_3gram
@@ -194,9 +112,6 @@ def get_perplexity_microsoft(dict):
 
         print count
 
-        # if (count > 20):
-        #    break
-
         count += 1
 
     max_P = max([max(arr_main[0]), max(arr_main[1]), max(arr_main[2]), max(arr_main[3])])
@@ -231,5 +146,3 @@ print len(dict)
 
 arr = models.american_english.read_ngram_files(models.american_english.ngrams_proba_filename, is_main_files=False)
 get_perplexity_am(dict, arr)
-
-# get_perplexity_microsoft(dict)

@@ -40,10 +40,10 @@ def get_perplexity(arr_all):
             c = gram_dict_4[for_4_gram]
             d = gram_dict_5[for_5_gram]
 
-            pr_2gram = pr_2gram * (1/(gram_dict_2[for_2_gram] + 0.0)) ** (1/(833946+0.0))
-            pr_3gram = pr_3gram * (1/(gram_dict_3[for_3_gram] + 0.0)) ** (1/(833946+0.0))
-            pr_4gram = pr_4gram * (1/(gram_dict_4[for_4_gram] + 0.0)) ** (1/(833946+0.0))
-            pr_5gram = pr_5gram * (1/(gram_dict_5[for_5_gram] + 0.0)) ** (1/(833946+0.0))
+            pr_2gram = pr_2gram * (1 / (gram_dict_2[for_2_gram] + 0.0)) ** (1 / (833946 + 0.0))
+            pr_3gram = pr_3gram * (1 / (gram_dict_3[for_3_gram] + 0.0)) ** (1 / (833946 + 0.0))
+            pr_4gram = pr_4gram * (1 / (gram_dict_4[for_4_gram] + 0.0)) ** (1 / (833946 + 0.0))
+            pr_5gram = pr_5gram * (1 / (gram_dict_5[for_5_gram] + 0.0)) ** (1 / (833946 + 0.0))
 
             count += 1
 

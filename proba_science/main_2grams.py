@@ -63,8 +63,6 @@ dict, arr = read_data(gram_num)
 
 dict_proba = reformat_to_probability(arr, gram_num)
 
-# print arr_proba[0]
-
 print len(dict)
 
 p_ab = 1 / (len(dict) + 0.0)
@@ -73,21 +71,12 @@ res_arr = []
 
 dict_1 = {}
 
-# for i in dict:
-
-
 for i in dict:
     try:
         num_1 = dict[i]
-
         res = p_ab * dict_proba[i]
-        # print res, dict_proba[i]
         res_arr.append((res - dict_proba[i]) ** 2)
     except:
         print i
 
 print sum(res_arr) / (len(res_arr) + 0.0)
-
-
-
-# print p_ab

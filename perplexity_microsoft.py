@@ -138,8 +138,6 @@ def test():
         i_split = i.split(" ")
         arr.append(float(i_split[0]))
 
-        # print count
-
         if (count > 17650):
             print i
             break
@@ -221,7 +219,6 @@ def microsoft_api_model():
         prob_arr.append(j["probability"])
 
     predict_ans = prob_arr.index(max(prob_arr))
-    # predict_ans = random.randint(0,3)
     if (dict[i]['answer'] == dict[i]["var_" + str(predict_ans + 1)]):
         count_correct += 1
 

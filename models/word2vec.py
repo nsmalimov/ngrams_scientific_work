@@ -5,7 +5,7 @@ import gensim
 
 def word2vec(dict):
     model = gensim.models.Word2Vec. \
-        load_word2vec_format('/Users/Nurislam/Downloads/GoogleNews-vectors-negative300.bin', binary=True)
+        load_word2vec_format('/GoogleNews-vectors-negative300.bin', binary=True)
 
     # доля правильных ответов
     true_answers = 0

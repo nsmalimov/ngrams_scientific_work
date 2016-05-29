@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import matplotlib.pyplot as plt
+
 import models.american_english
 
 
@@ -116,11 +117,3 @@ def plot(pr_2gram, pr_3gram, pr_4gram, pr_5gram):
     plt.ylabel("perplexity")
     plt.axis([0, 7, -20, pr_2gram + 50])
     plt.show()
-
-# reformat_to_probability(2)
-# reformat_to_probability(3)
-# reformat_to_probability(4)
-# reformat_to_probability(5)
-
-# arr = models.american_english.read_ngram_files(models.american_english.ngrams_proba_filename, False)
-# pr_2gram, pr_3gram, pr_4gram, pr_5gram = get_perplexity(arr)
